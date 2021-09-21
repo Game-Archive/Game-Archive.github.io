@@ -94,3 +94,8 @@ button:active {
 button:focus{
     outline: 1px dotted;
 }
+
+button.Funkin {
+   height: 50px;
+   weight: 50px;
+}
